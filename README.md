@@ -1,1 +1,2 @@
-# twilio-frontend-demo
+yarn install
+yarn start
